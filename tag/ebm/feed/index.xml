@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EBM Archive - M&amp;P Events</title>
+	<atom:link href="/tag/ebm/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/ebm/</link>
+	<description>M&#38;P Events Veranstaltungsagentur</description>
+	<lastBuildDate>Mon, 26 Jun 2023 09:16:56 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/elementor/thumbs/Logo-petrol-weiss-03-ps3u71367n6iaov7n6rvdx57ja4tfw7rqshjst7hpw.webp</url>
+	<title>EBM Archive - M&amp;P Events</title>
+	<link>/tag/ebm/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Zweite Jugend Konzert</title>
+		<link>/event/zweite-jugend-konzert/</link>
+		
+		<dc:creator><![CDATA[kiessling@mp.events]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2023 18:00:00 +0000</pubDate>
+				<category><![CDATA[EBM]]></category>
+		<category><![CDATA[Konzert]]></category>
+		<guid isPermaLink="false">/?post_type=tribe_events#038;p=2946</guid>
+
+					<description><![CDATA[<p>An alle Fans des EBMs aufgepasst! Tanzt zur elektronischen Körpermusik durch die Nacht in der Factory Magdeburg und erlebt die Jungs von Zweite Jugend live mit ihrem neuen Album &#8220;Der Wille&#8230; <a class="more-link" href="/event/zweite-jugend-konzert/"><span class="screen-reader-text">Zweite Jugend Konzert</span> weiterlesen</a></p>
+<p>Der Beitrag <a href="/event/zweite-jugend-konzert/">Zweite Jugend Konzert</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="summary">An alle Fans des EBMs aufgepasst! Tanzt zur elektronischen Körpermusik durch die Nacht in der Factory Magdeburg und erlebt die Jungs von Zweite Jugend live mit ihrem neuen Album &#8220;Der Wille zur Nacht&#8221;. Am 27. Oktober um 20 Uhr geht es los.</p>
+<p>Einlass ist um 19 Uhr.</p>
+<section class="simplified-organizer-info" data-testid="simplified-organizer-info" aria-label="Organizer profile">
+<div class="simplified-organizer-info__profile">
+<div class="simplified-organizer-info__avatar"></div>
+</div>
+</section>
+<p>Der Beitrag <a href="/event/zweite-jugend-konzert/">Zweite Jugend Konzert</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

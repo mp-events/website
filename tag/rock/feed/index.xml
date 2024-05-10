@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rock Archive - M&amp;P Events</title>
+	<atom:link href="/tag/rock/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/rock/</link>
+	<description>M&#38;P Events Veranstaltungsagentur</description>
+	<lastBuildDate>Mon, 26 Jun 2023 09:16:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/elementor/thumbs/Logo-petrol-weiss-03-ps3u71367n6iaov7n6rvdx57ja4tfw7rqshjst7hpw.webp</url>
+	<title>rock Archive - M&amp;P Events</title>
+	<link>/tag/rock/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Drei Meter Feldweg &#8211; mit Konfetti und Raketen Tour 2023</title>
+		<link>/event/drei-meter-feldweg-konzert/</link>
+		
+		<dc:creator><![CDATA[kiessling@mp.events]]></dc:creator>
+		<pubDate>Fri, 10 Nov 2023 19:00:00 +0000</pubDate>
+				<category><![CDATA[Konzert]]></category>
+		<category><![CDATA[Punk]]></category>
+		<category><![CDATA[punkrock]]></category>
+		<category><![CDATA[rock]]></category>
+		<guid isPermaLink="false">/?post_type=tribe_events#038;p=2942</guid>
+
+					<description><![CDATA[<p>Tickets gibt es hier. Nach ihrem Erfolg bei der größtenteils ausverkauften Frühlingstour dieses Jahres, legen die Jungs von Drei Meter Feldweg noch einen drauf und liefern euch die &#8220;Mit Konfetti&#8230; <a class="more-link" href="/event/drei-meter-feldweg-konzert/"><span class="screen-reader-text">Drei Meter Feldweg &#8211; mit Konfetti und Raketen Tour 2023</span> weiterlesen</a></p>
+<p>Der Beitrag <a href="/event/drei-meter-feldweg-konzert/">Drei Meter Feldweg &#8211; mit Konfetti und Raketen Tour 2023</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Tickets gibt es <a href="https://www.eventim-light.com/de/a/5c40b7b1fb8098000100c348/e/644b9c61f525da15c33a0ed3">hier</a>.</p>
+<p>Nach ihrem Erfolg bei der größtenteils ausverkauften Frühlingstour dieses Jahres, legen die Jungs von Drei Meter Feldweg noch einen drauf und liefern euch die &#8220;Mit Konfetti und Raketen&#8221; Tour.</p>
+<p>Am 10. November 23 dürft Ihr mit ihnen in der Factory Magdeburg abrocken und einen einzigartigen Abend erleben.</p>
+<p>Der Beitrag <a href="/event/drei-meter-feldweg-konzert/">Drei Meter Feldweg &#8211; mit Konfetti und Raketen Tour 2023</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

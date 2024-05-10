@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Factory Magdeburg Archive - M&amp;P Events</title>
+	<atom:link href="/tag/factory-magdeburg/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/factory-magdeburg/</link>
+	<description>M&#38;P Events Veranstaltungsagentur</description>
+	<lastBuildDate>Mon, 26 Jun 2023 09:16:21 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/elementor/thumbs/Logo-petrol-weiss-03-ps3u71367n6iaov7n6rvdx57ja4tfw7rqshjst7hpw.webp</url>
+	<title>Factory Magdeburg Archive - M&amp;P Events</title>
+	<link>/tag/factory-magdeburg/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SALÒ &#8211; 120 Jahre Einsamkeit Tour 2023</title>
+		<link>/event/salo-120-jahre-einsamkeit-tour-2023/</link>
+		
+		<dc:creator><![CDATA[kiessling@mp.events]]></dc:creator>
+		<pubDate>Sat, 11 Nov 2023 19:00:00 +0000</pubDate>
+				<category><![CDATA[Factory Magdeburg]]></category>
+		<category><![CDATA[Konzert]]></category>
+		<category><![CDATA[Pop]]></category>
+		<category><![CDATA[Post-Punk]]></category>
+		<category><![CDATA[Punk]]></category>
+		<guid isPermaLink="false">/?post_type=tribe_events#038;p=2923</guid>
+
+					<description><![CDATA[<p>Innsite Booking, Diffus &#38; ByteFM präsentieren: SALÒ „120 Jahre Einsamkeit“ Tour „Größer, Schöner, Dreckiger“ so lautet die Devise für SALÒs Tour quer durch Deutschland, denn nach der fast ausverkauften Headline-Tour&#8230; <a class="more-link" href="/event/salo-120-jahre-einsamkeit-tour-2023/"><span class="screen-reader-text">SALÒ &#8211; 120 Jahre Einsamkeit Tour 2023</span> weiterlesen</a></p>
+<p>Der Beitrag <a href="/event/salo-120-jahre-einsamkeit-tour-2023/">SALÒ &#8211; 120 Jahre Einsamkeit Tour 2023</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Innsite Booking, Diffus &amp; ByteFM präsentieren:</p>
+<p><a href="https://www.eventim.de/event/salo-120-jahre-einsamkeit-tour-2023-factory-16762655/">SALÒ „120 Jahre Einsamkeit“ Tour</a></p>
+<p>„Größer, Schöner, Dreckiger“ so lautet die Devise für SALÒs Tour quer durch Deutschland, denn nach der fast ausverkauften Headline-Tour im April, legt der österreichische Künstler mit seiner neuen Tour direkt nach.</p>
+<p>Der Österreicher begeistert mit einer Mischung aus Post-Punk und Pop, die mal wütende, mal verspielte Züge annimmt, dabei ist SALÒ teilweise politisch, teilweise romantisch oder auch beides zugleich. Ihr dürft euch also auf einen einzigartigen Abend freuen.</p>
+<p>Zu den <a href="https://www.eventim.de/event/salo-120-jahre-einsamkeit-tour-2023-factory-16762655/">Tickets</a></p>
+<p>Der Beitrag <a href="/event/salo-120-jahre-einsamkeit-tour-2023/">SALÒ &#8211; 120 Jahre Einsamkeit Tour 2023</a> erschien zuerst auf <a href="/">M&amp;P Events</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
